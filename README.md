@@ -80,7 +80,8 @@ Content-Disposition: form-data; name="_create"
 
 -----------------------------300193789523924448502163188369--
 ```
-![image](https://github.com/minhquan202/Vuln-Netbox-XSS/assets/89106168/bf617022-880a-4c2a-a798-002a25da662b)
+![image](https://github.com/minhquan202/Vuln-Netbox-XSS/assets/89106168/52d72e64-e6a9-44ac-8015-18fe37612e8a)
+
 ![image](https://github.com/minhquan202/Vuln-Netbox-XSS/assets/89106168/6ce2c08d-9ead-480f-8d4f-1f3e2954abbb)
 
 # Impact:
